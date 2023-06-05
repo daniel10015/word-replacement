@@ -15,7 +15,7 @@ This repository contains source code, binaries (Windows x64AMD), and python scri
 ### Pre reqs
 - Windows (x64)
     - I'm using Windows.h for the keypresses
-- A python3 interpreter (if you want to use the python scripts)
+- A python3 interpreter (optional if you want to use the python scripts)
 
 
 Either you [don't have a C++ Compiler](#you-don't-have-a-c++-compiler) or [you do have one](#you-have-a-c++-compiler)

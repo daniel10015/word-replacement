@@ -60,9 +60,9 @@ If you're you're using ```Word-Replace-self``` (the one that doesn't pull from a
 
 
 ## How It Works
-```words-to-add.txt``` are phrases generated from ChatGPT when asked to create "phrases in 5 words or less," while 
-```words-to-remove.txt``` are words that I hand-picked.
-I'll finish this later
+```words-to-add.txt``` and ```words-to-remove.txt``` are phrases generated from ChatGPT when asked to create a list of 100 "sad words" and "phrases in 5 words or less".
+
+I'll finish this later if it gets more complicated.
 
 
 ### source code difference

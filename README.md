@@ -77,7 +77,7 @@ Word-Replace-self.cpp (Adding a key/value pair)
 
 
 ## Contributing
-I'm still kind of new so add me on discord if you're interested in improving this!
+I'm new so add me on discord if you're interested in improving this!
 
 
 ## Bug Report

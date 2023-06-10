@@ -62,7 +62,7 @@ If you're you're using ```Word-Replace-self``` (the one that doesn't pull from a
 ## How It Works
 ```words-to-add.txt``` and ```words-to-remove.txt``` are phrases generated from ChatGPT when asked to create a list of 100 "sad words" and "phrases in 5 words or less".
 
-I'll finish this later if it gets more complicated.
+I'll finish this later if it gets more complicated. Well it's more complicated, click [here](https://jamboard.google.com/d/1Lc5qBSnu2zR7ofjS1GFtHWSp0otIEuCCNbBpaViyiQs/viewer?f=2) to checkout the different designs! 
 
 
 ### source code difference

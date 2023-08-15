@@ -13,9 +13,9 @@ This repository contains source code, binaries (Windows x64AMD), and python scri
 
 ## Getting Started
 ### Pre reqs
-- Windows (x64)
-    - I'm using Windows.h for the keypresses
-- A python3 interpreter (optional if you want to use the python scripts)
+- (**required**) Windows (x64)
+    - I'm using Windows for the keypresses
+- (**optional**) A python3 interpreter
 
 
 Either you [don't have a C++ Compiler](#you-don't-have-a-c++-compiler) or [you do have one](#you-have-a-c++-compiler)
@@ -40,11 +40,11 @@ g++ ./WordReplacement/src/WordReplace.cpp -o "Word Replace"
 
 ## Usage
 1. Run the program
-    - You can make it an app that can you click so you don't have to open up the folder everytime.
+    - You can add a shortcut you can click so you don't have to look it up
 2. Type a word
-3. Press the spacebar to evaluate the word 
+3. Press the spacebar to evaluate the word according to the definitions in ```Constitution.txt```
 4. If the word is set to change according to the settings then it will get modified
-5. r-ctrl to exit the program (or close the application window)
+5. rctrl to exit the program and close the application window
 
 ### Make Your Own List Of Words
 If you'd like to create your own constitution then there's a python script ```createCSV.py``` that will take two text files, one called ```word-to-replace.txt``` and ```words-to-add.txt``` and will do a one-to-one matchup between the two. 

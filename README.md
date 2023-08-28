@@ -1,7 +1,7 @@
 # Word Replacement
-The perfect software for an angry Online Gamer with 80wpm typing speed... Inspiration for this from [this video](https://www.youtube.com/watch?v=on0UTFHNFMg&ab_channel=MartinHavelka)
+Substitute a phrase with another phrase (insert GIF example here)
 
-This repository contains source code, binaries (Windows x64AMD), and python scripts to automate some of the csv work.
+This repository contains source code, binaries (Windows x86-64AMD), and python scripts to automate some of the csv work.
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -47,6 +47,11 @@ g++ ./WordReplacement/src/WordReplace.cpp -o "Word Replace"
 5. rctrl to exit the program and close the application window
 
 ### Make Your Own List Of Words
+The code is all in one source file because I don't intend on expanding the software, and compiling wouldn't change because of the dependency graph. So there's little incentive for me to spend time on that. 
+
+The diagram below gives a brief overview of how the program functions
+![Alt text]("diagram-1.png")
+
 If you'd like to create your own constitution then there's a python script ```createCSV.py``` that will take two text files, one called ```word-to-replace.txt``` and ```words-to-add.txt``` and will do a one-to-one matchup between the two. 
 
 ```word-to-replace.txt``` should only have 1 word per line since the app currently only works on singular words.
@@ -61,8 +66,6 @@ If you're you're using ```Word-Replace-self``` (the one that doesn't pull from a
 
 ## How It Works
 ```words-to-add.txt``` and ```words-to-remove.txt``` are phrases generated from ChatGPT when asked to create a list of 100 "sad words" and "phrases in 5 words or less".
-
-I'll finish this later if it gets more complicated.
 
 
 ### source code difference

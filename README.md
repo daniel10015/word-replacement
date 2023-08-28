@@ -60,11 +60,14 @@ If you're you're using ```Word-Replace-self``` (the one that doesn't pull from a
 
 
 ## How It Works
+### Technical
 The code is all in one source file because I don't intend on expanding the software, and compiling wouldn't change because of the dependency graph. So there's little incentive for me to spend time on that. 
 
 The diagram below gives a brief overview of how the program functions
 ![Alt text](diagram-1.png)
 
+
+### Default Phrases
 ```words-to-add.txt``` and ```words-to-remove.txt``` are phrases generated from ChatGPT when asked to create a list of 100 "sad words" and "phrases in 5 words or less".
 
 

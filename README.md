@@ -2,7 +2,7 @@
 Substitute a phrase with another phrase 
 (video example goes here)
 
-This repository contains source code, binaries (Windows x86-64AMD), and python scripts to automate some of the csv work.
+This repository contains source code, binaries for AMD64, and python scripts to automate some of the csv work.
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Usage](#usage)

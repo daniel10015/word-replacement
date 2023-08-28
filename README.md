@@ -1,5 +1,6 @@
 # Word Replacement
-Substitute a phrase with another phrase (insert GIF example here)
+Substitute a phrase with another phrase 
+(video example goes here)
 
 This repository contains source code, binaries (Windows x86-64AMD), and python scripts to automate some of the csv work.
 ## Table of Contents
@@ -13,7 +14,7 @@ This repository contains source code, binaries (Windows x86-64AMD), and python s
 
 ## Getting Started
 ### Pre reqs
-- (**required**) Windows (x64)
+- (**required**) Windows (x86-64)
     - I'm using Windows for the keypresses
 - (**optional**) A python3 interpreter
 
@@ -61,7 +62,7 @@ If you're you're using ```Word-Replace-self``` (the one that doesn't pull from a
 
 ## How It Works
 ### Technical
-The code is all in one source file because I don't intend on expanding the software, and compiling wouldn't change because of the dependency graph. So there's little incentive for me to spend time on that. 
+The code is all in one source file because I didn't anticipate I would go as far as I did. I don't have an incentive to keep on going, however, if I do decide to keep going I will appropriately organize the source code.  
 
 The diagram below gives a brief overview of how the program functions
 ![Alt text](diagram-1.png)

@@ -31,9 +31,9 @@ If you don't want to deal with this, then build it yourself.
 
 
 ### You have a C++ Compiler
-If you have a C++ compiler then you all you'll need to compile is any variation of the ```WordReplace.cpp``` source code file. The DEBUG version will print out program states into the console, and self versions won't rely on an external csv file during runtime (since it matches the pairs of words at compile time). For example if you're in the parent directory and using g++ then run this command:
+If you have a C++ compiler then you all you'll need to compile is any variation of the ```WordReplace.cpp``` source code file. The DEBUG version will print out program states into the console. Use the build.bat file to compile. Usage: in parent directory ("path/to/parent/Word Replacement/") (NOTE: <string> is optional to include string):
 ```
-g++ ./WordReplacement/src/WordReplace.cpp -o "Word Replace"
+build <DEBUG>
 ```
 
 

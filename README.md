@@ -1,6 +1,6 @@
 # Word Replacement
 Substitute a phrase with another phrase 
-(video example goes here)
+![Alt text](demo1.gif)
 
 This repository contains source code, binaries for AMD64, and python scripts to automate some of the csv work.
 ## Table of Contents

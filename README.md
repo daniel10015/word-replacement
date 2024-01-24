@@ -1,8 +1,9 @@
 # Word Replacement
-Substitute a phrase with another phrase 
+Real-time phrase replacement system, allowing rapid detection and replacement of trigger phrases with specific counterparts with an average response time of 10 milliseconds.
+
 ![Alt text](demo1.gif)
 
-This repository contains source code, binaries for AMD64, and python scripts to automate some of the csv work.
+This repository contains source code, binaries for AMD64, and python scripts to automate configuring the csv.
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Usage](#usage)
